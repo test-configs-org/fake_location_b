@@ -1,0 +1,9 @@
+# Authentication/Access info
+location_info.json
+
+# Local data folders
+*/logs/
+*/report/
+*/resources/videos/
+*/resources/backgrounds/
+
